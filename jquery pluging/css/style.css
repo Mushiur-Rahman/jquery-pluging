@@ -1,0 +1,16 @@
+.box{
+	margin: 30px -100px;
+    padding: 25px;
+	background-color: #000000;
+	color: #ffffff;
+}
+
+.section{
+	min-height: 300px;
+	margin-top: 20px;
+}
+
+.parallax-window {
+    min-height: 800px;
+    background: transparent;
+}
